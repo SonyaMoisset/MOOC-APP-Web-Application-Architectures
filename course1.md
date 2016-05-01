@@ -19,3 +19,11 @@ In this course we will learn by doing.  We will start by learning the major comp
 - Lesson # 2 - The Ruby on Rails Framework
 - Lesson # 3 - Rails and Agile Programming Philosophies
 - Lesson # 4 - Version Control and Git and Rails
+
+#### Week 3
+##### Managing Data
+- Managing Data Overview
+- Lesson #1 - Relational Databases in Web Apps
+- Lesson #2 - Database Integration in Web Apps
+- Lesson #3 - Active Record Design Pattern
+- Lesson #4 - Associations and Validations
