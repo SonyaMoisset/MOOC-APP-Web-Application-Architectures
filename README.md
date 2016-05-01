@@ -1,1 +1,1 @@
-# MOOC-APP-Web-Application-Architectures
+# Web Application Architectures
