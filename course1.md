@@ -15,10 +15,10 @@ In this course we will learn by doing.  We will start by learning the major comp
 #### Week 2
 ##### Web Applications Frameworks
 - Web Applications Frameworks Overview
-- Lesson # 1 - What are Web Application Frameworks?
-- Lesson # 2 - The Ruby on Rails Framework
-- Lesson # 3 - Rails and Agile Programming Philosophies
-- Lesson # 4 - Version Control and Git and Rails
+- Lesson #1 - What are Web Application Frameworks?
+- Lesson #2 - The Ruby on Rails Framework
+- Lesson #3 - Rails and Agile Programming Philosophies
+- Lesson #4 - Version Control and Git and Rails
 
 #### Week 3
 ##### Managing Data
