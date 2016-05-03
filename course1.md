@@ -27,3 +27,10 @@ In this course we will learn by doing.  We will start by learning the major comp
 - Lesson #2 - Database Integration in Web Apps
 - Lesson #3 - Active Record Design Pattern
 - Lesson #4 - Associations and Validations
+
+#### Week 4
+##### Middleware
+- Middleware Overview
+- Lesson #1 - Middleware: An Introduction
+- Lesson #2 - The HTTP Protocol
+- Lesson #3 - MVC Over Rails Middleware
