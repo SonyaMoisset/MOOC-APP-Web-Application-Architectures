@@ -10,3 +10,6 @@
 
 ### 01/05/2016
 - Finished Week 3 | Managing Data in Course 1 | Web Application Development: Basic Concepts
+
+### 03/05/2016
+- Finished Week 4 | Middleware in Course 1 | Web Application Development: Basic Concepts
