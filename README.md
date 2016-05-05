@@ -13,3 +13,6 @@
 
 ### 03/05/2016
 - Finished Week 4 | Middleware in Course 1 | Web Application Development: Basic Concepts
+
+### 05/05/2016
+- Finished Week 5 | The User Interface in Course 1 | Web Application Development: Basic Concepts
