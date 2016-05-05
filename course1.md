@@ -34,3 +34,10 @@ In this course we will learn by doing.  We will start by learning the major comp
 - Lesson #1 - Middleware: An Introduction
 - Lesson #2 - The HTTP Protocol
 - Lesson #3 - MVC Over Rails Middleware
+
+#### Week 5
+##### The User Interface
+- The User Interface Overview
+- Lesson #1 - Presentation Tier Overview
+- Lesson #2 - HTML CSS and JavaScript Overviews
+- Lesson #3 - Dynamic Content and Ajax
